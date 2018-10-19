@@ -17,7 +17,8 @@
 ->envoi sur le gitub
 ##git clone avec l'adresse fournie lors du clonage pour recupere le repository de qlq 
 *.md tu n'indexera jms les .md
-
+##git pull 
+->recupere avec les modifications faites
 ##Exercices
 Créez un dossier css avec 2fichiers
 Créez un fichier admin.php, lire.txt
