@@ -5,6 +5,10 @@
 ### git commit 
 ### git log (--stat)
 ### git status
+###git commit --amend
+->reviens sur la commit precédent
+## git rm --cached lire.txt 
+-> pour retirer le fichier lire.txt
 
 *.md tu n'indexera jms les .md
 
