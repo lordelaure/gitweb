@@ -6,7 +6,7 @@
 ### git log (--stat)
 ### git status
 ###git commit --amend
-->reviens sur la commit precédent
+->reviens sur le commit precédent
 ## git rm --cached lire.txt 
 -> pour retirer le fichier lire.txt
 
