@@ -13,7 +13,9 @@
 -> suprime les dernieres modificatiosn jusqu'à l'ancien commit(je recuper clé de cryptage avec un git log)
 ## git resset
 -> suprime normalement de l'historique
-
+##git push
+->envoi sur le gitub
+##git clone avec l'adresse fournie lors du clonage pour recupere le repository de qlq 
 *.md tu n'indexera jms les .md
 
 ##Exercices
